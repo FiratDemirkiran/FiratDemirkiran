@@ -7,7 +7,7 @@
 
 #### 📫 İletişim - 📧 E-posta:
 [firatdemiirr.1634@gmail.com]<br>
-(mailto: firatdemiirr.1634@gmail.com) -<br> 💼 LinkedIn: [Fırat Demirkıran]( https://www.linkedin.com/in/fırat-demirkıran) <br><br>
+(mailto: firatdemiirr.1634@gmail.com) -<br> 💼 LinkedIn: [Fırat Demirkıran](https://www.linkedin.com/in/f%C4%B1rat-demirk%C4%B1ran-61b85631b?trk=contact-info) <br><br>
 
 #### ⚡ Eğlence:
 <br>Eğlenceli Gerçek Boş zamanlarımda yeni teknolojileri keşfetmeyi ve belgeseller izlemeyi seviyorum! Profilimi ziyaret ettiğiniz için teşekkürler! 😊
