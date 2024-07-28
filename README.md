@@ -6,7 +6,7 @@
 <br> **Ön Uç Geliştirici** olarak devam ediyorum. - 🌱 Şu anda **Arka Uç Geliştirme** konusunda öğrenme ve eğitim aşamasındayım - <br>💡 Yaratıcı çözümler üretmeyi ve kullanıcı dostu arayüzler oluşturmayı seviyorum - <br>📚 Yazılım dünyasındaki gelişmelerden her zaman haberdar oluyorum ve öğreniyorum <br><br>
 
 #### 📫 İletişim - 📧 <br>E-posta:
-[firatdemiirr.1634@gmail.com]
+[firatdemiirr.1634@gmail.com]<br>
 (mailto: firatdemiirr.1634@gmail.com) -<br> 💼 LinkedIn: [Fırat Demirkıran]( https://www.linkedin.com/in/fırat-demirkıran ) <br><br>
 
 #### ⚡ Eğlence:
