@@ -15,7 +15,7 @@
 
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
-<a href="https://linkedin.com/tr/fırat demirkıran" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt ="fırat demirkıran" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fırat-demirkıran-61b85631b" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt ="fırat demirkıran" height="30" width="40" /></a>
 <a href="https://instagram.com/frt.dmr16" target="blank"><img align="center " src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frt.dmr16" yükseklik="30" genişlik="40" /></a>
 </p>
 
