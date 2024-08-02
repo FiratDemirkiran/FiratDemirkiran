@@ -1,4 +1,4 @@
-[![MasterHead](https://media.istockphoto.com/id/519183570/tr/foto%C4%9Fraf/laptop-screen-covered-by-adhesive-notes.jpg?s=1024x1024&w=is&k=20&c=Zc-ljzayKD10Htheq41ZE_PhnNOhTQq-CImdoOc1u58=)
+[![MasterHead](https://i.pinimg.com/736x/71/ee/32/71ee32577432648f9e45fbd63b2cf261.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Fırat Demirkıran</h1>
