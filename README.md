@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Fırat Demirkıran</h1>
-<h3 align="center">A passionate frontend developer from Bursa</h3>
+<h3 align="center">A passionate front-end developer from Bursa</h3>
 
 - 🌱 I’m currently learning ****Ön Uç Geliştirici** olarak devam ediyorum. - 🌱 Şu anda **Arka Uç Geliştirme** konusunda öğrenme ve eğitim aşamasındayım - <br>💡 Yaratıcı çözümler üretmeyi ve kullanıcı dostu arayüzler oluşturmayı seviyorum - <br>📚 Yazılım dünyasındaki gelişmelerden her zaman haberdar oluyorum ve öğreniyorum**
 
